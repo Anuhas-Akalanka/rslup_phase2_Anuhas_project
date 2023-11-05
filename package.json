@@ -1,0 +1,20 @@
+{
+  "name": "rslup_phase2_Anuhas_project-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anuhas-Akalanka/rslup_phase2_Anuhas_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anuhas-Akalanka/rslup_phase2_Anuhas_project/issues"
+  },
+  "homepage": "https://github.com/Anuhas-Akalanka/rslup_phase2_Anuhas_project#readme"
+}
